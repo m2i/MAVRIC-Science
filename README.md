@@ -6,6 +6,3 @@ What does here:
  - instructions for analysis
  - results of tests
  - Design files for collection system
-
-What doesn't:
- - Meeting minutes
