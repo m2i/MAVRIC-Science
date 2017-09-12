@@ -1,4 +1,4 @@
-# MAVRIC Phoenix : [Team Name]
+# MAVRIC Phoenix : Science Team
 The repository for the Science Team. Includes designs and documentation.
 
 # Team Structure
