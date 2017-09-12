@@ -2,7 +2,7 @@
 The repository for the Science Team. Includes designs and documentation.
 
 # Team Structure
-Team Lead: [Team Lead's name] (@[team lead's github account])
+Team Lead: Ryan Byrnes (@rmbyrnes)
 
 Members:
  * ?
