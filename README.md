@@ -5,83 +5,20 @@ The repository for the Science Team. Includes designs and documentation.
 Team Lead: Ryan Byrnes (@rmbyrnes)
 
 Members:
- * ?
- * ?
- * ?
- * ?
+ * Eddie Ting
+ * Bradlee Fair 
+ * Nicholas Kilzer
+ * John Mills
+ * Alex Schell
 
-# Folder Structure:
-
-```
-|> Folder
-|  |> Subfolder
-|  `> Subfolder
-|
-`> Folder
-   |> Subfolder // Description
-   `> Subfolder // Description
-      `- File   // Only include files if they are particularly relevant
-```
 
 # Milestones
 |                     | Milestone 1 | Milestone 2 | Milestone 3 | Milestone 4 |
 |:--------------------|:-----------:|:-----------:|:-----------:|:-----------:|
-| Name                |      ?      |      ?      |      ?      |      ?      |
-| Due Date            |      ?      |      ?      |      ?      |      ?      |
-| Primary Team Member |      ?      |      ?      |      ?      |      ?      |
+| Name                |  Research   |   Design    |SensorTesting|SystemTesting|
+| Due Date            |  9/20/17    |   10/14/17  |  11/30/17   |    Spring   |
+| Primary Team Member |    All      |    All      |    All      |    All      |
 
-## Milestone 1:  link to the milestone on github: [NAME](https://github.com/m2i/MAVRIC-General/milestones/?)
-Description: ?
+# Updates
+For weekly-updated notes on team progress, milestones, tasks, and reports, see the spreadsheet within the weekly report attached.
 
-Notes: [any notes (progress, issues, etc)]
-### Tasks
- * ?
- * ?
- * ?
-
-### Deliverables
- * ?
- * ?
- * ?
-
-## Milestone 2: ?
-Description: ?
-
-Notes: [any notes (progress, issues, etc)]
-### Tasks
- * ?
- * ?
- * ?
-
-### Deliverables
- * ?
- * ?
- * ?
-
-## Milestone 3: ?
-Description: ?
-
-Notes: [any notes (progress, issues, etc)]
-### Tasks
- * ?
- * ?
- * ?
-
-### Deliverables
- * ?
- * ?
- * ?
- 
-## Milestone 4: ?
-Description: ?
-
-Notes: [any notes (progress, issues, etc)]
-### Tasks
- * ?
- * ?
- * ?
-
-### Deliverables
- * ?
- * ?
- * ?
