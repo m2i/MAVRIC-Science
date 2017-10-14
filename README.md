@@ -9,8 +9,7 @@ Members:
  * Bradlee Fair 
  * Nicholas Kilzer
  * John Mills
- * Alex Schell
-
+ 
 
 # Milestones
 |                     | Milestone 1 | Milestone 2 | Milestone 3 | Milestone 4 |
